@@ -1,0 +1,19 @@
+h1{
+    color: aqua;
+}
+h2{
+    color: blue;
+}
+#encabezado-cinco{
+color: coral;
+}
+
+.text-danger{
+    color: red;
+}
+.text-yellow{
+    color: rgb(182, 204, 16);
+}
+body{
+    background-color: antiquewhite;
+}
